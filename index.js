@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-//get the arguments passed to the node.js process when run in the command line.
+//get the arguments passed to the index.js process when run in the command line.
 const [, , path] = process.argv;
 
 //withFileTypes return with file type
