@@ -27,4 +27,3 @@ fs.readdir(path, { withFileTypes: true }, (error, dir) => {
 // Dirent { name: 'files.html', [Symbol(type)]: 1 }
 // Dirent { name: 'files2.txt', [Symbol(type)]: 1 }
 // Dirent { name: 'files3.js', [Symbol(type)]: 1 }
-// Dirent { name: 'secondarybackup', [Symbol(type)]: 2 }
